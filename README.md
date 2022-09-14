@@ -15,6 +15,7 @@ The project is divided in two main parts:
 
 2. Near Duplicate Detection:
 - in this part of the homework, we have to find, in an approximated way, all near-duplicate documents inside a collection of documents, following the rules below.
+
    - We will consider Near-duplicates all those pair of documents that have a Jaccard similarity greater than or equal to 0.95
    - Each set of shingles, that represents an original document, must be sketched in a Min-Hashing sketch with a length of at most 210
    - The probability to have as a near-duplicate candidate a pair of documents with Jaccard=0.95 must be > 0.97
