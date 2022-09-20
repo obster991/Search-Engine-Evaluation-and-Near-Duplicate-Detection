@@ -5,7 +5,7 @@
 
 University project at the course of Data Mining Technology for Business and Society concerning the building of a search engine using the Pyterrier library and the Near Duplicates Detection task.
 
-## Project tasks
+## Project Tasks
 
 The project is divided in two main parts:
 
